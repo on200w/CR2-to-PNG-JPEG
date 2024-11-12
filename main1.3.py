@@ -1,10 +1,10 @@
-import os 
-import rawpy 
+import os  
+import rawpy  
 import imageio 
-from tkinter import Tk, filedialog, Button, Label, StringVar, OptionMenu 
-from tkinter.ttk import Progressbar 
+from tkinter import Tk, filedialog, StringVar  
+from tkinter.ttk import Button, Label, OptionMenu, Progressbar, Style  
 import threading  
-import concurrent.futures
+import concurrent.futures 
 
 # Funksjon for å velge CR2-filer
 def choose_files():
