@@ -1,10 +1,10 @@
-import os  # Importerer biblioteket for å jobbe med filsystemet
-import rawpy  # Importerer biblioteket for å lese råbildefiler
-import imageio  # Importerer biblioteket for å skrive bildefiler
-from tkinter import Tk, filedialog, StringVar  # Importerer nødvendige moduler fra Tkinter for GUI
-from tkinter.ttk import Button, Label, OptionMenu, Progressbar, Style  # Importerer nødvendige moduler fra Tkinter for stilige widgets
-import threading  # Importerer biblioteket for å kjøre flere tråder samtidig
-import concurrent.futures  # Importerer biblioteket for å kjøre funksjoner parallelt
+import os 
+import rawpy 
+import imageio 
+from tkinter import Tk, filedialog, Button, Label, StringVar, OptionMenu 
+from tkinter.ttk import Progressbar 
+import threading  
+import concurrent.futures
 
 # Funksjon for å velge CR2-filer
 def choose_files():
