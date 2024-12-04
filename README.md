@@ -1,3 +1,3 @@
-Her har jeg laget et programm i Python som kan automastik gjøre CR2 filer til PNG eller JPEG, det er 4 forkjellige versjoner som viser framgangen til programmet. 
+Here, I have created a user friendly program in Python that can automatically convert CR2 files to PNG or JPEG. There are four different versions showcasing the progress of the program.
 
-Husk å last inn alle biblotekene som programmet trenger for å kjøres.
+Remember to download all the libraries required for the program to run.
