@@ -2,7 +2,7 @@ Here, I have created a user friendly program in Python that can automatically co
 
 Remember to download all the libraries required for the program to run.
 
-# 💫 About Me:
+# 💫 Om meg:
 Jeg er ung kar som går på informasjonsteknologi 
 
 
