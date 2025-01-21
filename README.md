@@ -1,4 +1,5 @@
 ## Getting Started
+## Getting Started
 
 Denne applikasjonen konverterer CR2-filer til PNG og JPEG-formater. Den er utviklet i Python, og er utformet med enkelhet og brukervennlighet i tankene. Dette verktøyet er ideelt for både amatører og profesjonelle fotografer som ønsker en pålitelig og effektiv løsning for å håndtere CR2-filer.
 ### Prerequisites
@@ -19,4 +20,5 @@ Vennligst last ned og installer følgende biblioteker for å kunne kjøre og bru
 ## Usage
 
 Programmet er svært brukervennlig og bør være enkelt å forstå, selv for de som ikke er teknologikyndige. Den intuitive grensesnittet og klare instruksjoner sikrer en jevn brukeropplevelse. Nedenfor ser du hvordan programmet fremstår i sin nåværende form, med alle nødvendige funksjoner lett tilgjengelige og enkle å navigere.
-<img src="https://i.postimg.cc/Dz0NbHtS/Bilde-2025-01-21-110737407.png" alt="Logo" width="" height="">
+
+<img src="https://i.postimg.cc/Dz0NbHtS/Bilde-2025-01-21-110737407.png" alt="Bilde" width="" height="">
