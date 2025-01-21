@@ -6,6 +6,7 @@ Dette er en CR2 til PNG og JPEG konverterer som er laget i Python, det er veldig
 Last ned disse bibliotekene for å kunne kjøre og bruke programmet.
 
 - pip
+
   ```sh
   pip install rawpy imageio
   ```
