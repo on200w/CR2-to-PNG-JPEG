@@ -1,2 +1,0 @@
-pip install rawpy
-pip install imageio
