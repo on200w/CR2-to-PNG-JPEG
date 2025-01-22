@@ -21,3 +21,18 @@ Vennligst last ned og installer følgende biblioteker for å kunne kjøre og bru
 Programmet er svært brukervennlig og bør være enkelt å forstå, selv for de som ikke er teknologikyndige. Den intuitive grensesnittet og klare instruksjoner sikrer en jevn brukeropplevelse. Nedenfor ser du hvordan programmet fremstår i sin nåværende form, med alle nødvendige funksjoner lett tilgjengelige og enkle å navigere.
 
 <img src="https://i.postimg.cc/Dz0NbHtS/Bilde-2025-01-21-110737407.png" alt="Bilde" width="" height="">
+
+<h2 id="colab">🤝 Collaborators</h2>
+
+<p>Denne oppgaven er utført av 2INF-teamet. Nedenfor er en liste over alle som har bidratt til prosjektet.</p>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/on200w">
+<img src="https://avatars.githubusercontent.com/u/188188708?v=4" width="150px;" alt="Henrik Profile Picture"/><br>
+<sub>
+<b>Henrik S</b>
+</sub>
+</a>
+</td>
