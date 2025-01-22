@@ -24,6 +24,10 @@ Programmet er svært brukervennlig og bør være enkelt å forstå, selv for de 
 
 <h2 id="colab">🤝 Collaborators</h2>
 
+<p>Nedenfor er en liste over alle som har bidratt til prosjektet.</p>
+<table>
+<tr>
+
 <td align="center">
 <a href="https://github.com/on200w">
 <img src="https://avatars.githubusercontent.com/u/188188708?v=4" width="75px;" alt="Henrik Profile Picture"/><br>
