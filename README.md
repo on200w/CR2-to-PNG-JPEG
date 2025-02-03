@@ -22,7 +22,7 @@ Programmet er svært brukervennlig og bør være enkelt å forstå, selv for de 
 
 <img src="https://i.postimg.cc/Dz0NbHtS/Bilde-2025-01-21-110737407.png" alt="Bilde" width="" height="">
 
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="colab">Collaborators</h2>
 
 <p>Nedenfor er en liste over alle som har bidratt til prosjektet.</p>
 <table>
