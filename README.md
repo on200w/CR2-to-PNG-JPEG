@@ -10,13 +10,13 @@ Vennligst last ned og installer følgende biblioteker for å kunne kjøre og bru
   ```sh
   pip install rawpy imageio
   ```
-### Installation
+### Installasjon
 
 
 
 1. Last ned ønsket Python-fil fra følgende lenke: [CR2-to-PNG-JPEG](https://github.com/on200w/CR2-to-PNG-JPEG/tree/main/CR2%20to%20PNG%20or%20JPEG)
 2. Åpne filen. Forutsetningen for at programmet skal fungere, er at de nødvendige bibliotekene er installert.
-## Usage
+## Bruk
 
 Programmet er svært brukervennlig og bør være enkelt å forstå, selv for de som ikke er teknologikyndige. Den intuitive grensesnittet og klare instruksjoner sikrer en jevn brukeropplevelse. Nedenfor ser du hvordan programmet fremstår i sin nåværende form, med alle nødvendige funksjoner lett tilgjengelige og enkle å navigere.
 
