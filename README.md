@@ -8,12 +8,11 @@ Dette programmet lar brukeren velge CR2-filer (RAW-bilder fra Canon-kameraer) og
 ### Hvorfor laget jeg det?
 CR2-filer er råbilder som ikke kan åpnes direkte i de fleste bildevisere. Konvertering er nødvendig for å gjøre dem mer tilgjengelige for redigering og deling.
 
-### Krav
+## Krav
 
 Vennligst last ned og installer følgende biblioteker for å kunne kjøre og bruke applikasjonen
 
-### Pip installasjon
-
+### Pip installasjon av nødvendige biblioteker
   ```sh
   pip install rawpy imageio
   ```
