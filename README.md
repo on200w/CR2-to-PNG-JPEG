@@ -2,10 +2,10 @@
 
 Denne applikasjonen konverterer CR2-filer til PNG og JPEG-formater. Den er utviklet i Python, og er utformet med enkelhet og brukervennlighet i tankene. Dette verktøyet er ideelt for både amatører og profesjonelle fotografer som ønsker en pålitelig og effektiv løsning for å håndtere CR2-filer.
 
-Hva gjør programmet?
+##Hva gjør programmet?
 Dette programmet lar brukeren velge CR2-filer (RAW-bilder fra Canon-kameraer) og konvertere dem til et mer brukervennlig format som PNG eller JPEG.
 
-Hvorfor laget jeg det?
+##Hvorfor laget jeg det?
 CR2-filer er råbilder som ikke kan åpnes direkte i de fleste bildevisere. Konvertering er nødvendig for å gjøre dem mer tilgjengelige for redigering og deling.
 
 ### Krav
