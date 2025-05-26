@@ -12,16 +12,16 @@ CR2-filer er råbilder som ikke kan åpnes direkte i de fleste bildevisere. Konv
 
 Vennligst last ned og installer følgende biblioteker for å kunne kjøre og bruke applikasjonen
 
-- pip
+### pip
 
   ```sh
   pip install rawpy imageio
   ```
 
-### imageio 
+- imageio 
 Brukt til å lagre de behandlede bildene i ønsket format (PNG eller JPEG).
 
-### rawpy 
+- rawpy 
 Brukt til å lese og prosessere CR2-filer, slik at vi kan konvertere dem til RGB.
 
 
