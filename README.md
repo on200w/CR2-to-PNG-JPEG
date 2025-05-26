@@ -17,6 +17,14 @@ Vennligst last ned og installer følgende biblioteker for å kunne kjøre og bru
   ```sh
   pip install rawpy imageio
   ```
+
+### imageio Brukt til å lagre de behandlede bildene i ønsket format (PNG eller JPEG).
+
+### rawpy Brukt til å lese og prosessere CR2-filer, slik at vi kan konvertere dem til RGB.
+
+
+
+  
 ### Installasjon
 
 
