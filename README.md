@@ -23,7 +23,8 @@ Brukt til å lagre de behandlede bildene i ønsket format (PNG eller JPEG).
 - rawpy 
 Brukt til å lese og prosessere CR2-filer, slik at vi kan konvertere dem til RGB.
 
-
+### Python versjon
+Python 3.8 eller nyere (for kompatibilitet med rawpy og imageio)
 
   
 ## Installasjon
