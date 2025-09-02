@@ -30,8 +30,8 @@
 <h2>🚀 Bruk</h2>
 <ol>
   <li><strong>Klon repoet</strong> eller last ned filen:
-    <pre><code>git clone https://github.com/&lt;brukernavn&gt;/&lt;repo-navn&gt;.git
-cd &lt;repo-navn&gt;</code></pre>
+    <pre><code>git clone https://github.com/on200w/CR2-to-PNG-JPEG.git
+cd CR2-to-PNG-JPEG</code></pre>
   </li>
   <li><strong>Installer avhengigheter</strong>:
     <pre><code>pip install rawpy imageio</code></pre>
@@ -41,10 +41,12 @@ cd &lt;repo-navn&gt;</code></pre>
   </li>
   <li><strong>Bruk</strong>:
     <ul>
-      <li>Klikk <em>"Velg filer"</em> og marker CR2-bildene du vil konvertere.</li>
-      <li>Klikk <em>"Velg utgangsmappen"</em> for å bestemme lagringssted.</li>
-      <li>Velg ønsket format (<code>PNG</code> eller <code>JPEG</code>).</li>
-      <li>Klikk <em>"Start konvertering"</em> og følg fremdriftsindikatoren.</li>
+      <li>Klikk <em>"Velg filer"</em> og marker én eller flere CR2-bilder du vil konvertere.</li>
+      <li>Klikk <em>"Velg utgangsmappen"</em> for å bestemme hvor de konverterte bildene skal lagres.</li>
+      <li>Velg ønsket format (<code>PNG</code> eller <code>JPEG</code>) fra nedtrekksmenyen.</li>
+      <li>Klikk <em>"Start konvertering"</em> for å starte prosessen.</li>
+      <li>Følg med på fremdriftsindikatoren for å se hvor langt konverteringen har kommet.</li>
+      <li>Når prosessen er ferdig, finner du de konverterte bildene i utgangsmappen du valgte.</li>
     </ul>
   </li>
 </ol>
@@ -57,3 +59,8 @@ cd &lt;repo-navn&gt;</code></pre>
 </p>
 
 <hr>
+
+<h2>📜 Lisens</h2>
+<p>
+Dette prosjektet er lisensiert under <strong>MIT-lisensen</strong>.
+</p>
