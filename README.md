@@ -60,7 +60,4 @@ cd CR2-to-PNG-JPEG</code></pre>
 
 <hr>
 
-<h2>📜 Lisens</h2>
-<p>
-Dette prosjektet er lisensiert under <strong>MIT-lisensen</strong>.
-</p>
+
